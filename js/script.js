@@ -226,7 +226,7 @@ const members = {
     },
 	"01639523533":{
         name:"Akib Hasan",
-        join:"new",
+        // join:"new",
         // pre-previous month list
         post_payable        :2800,
         previous_paid       :0,
@@ -847,6 +847,7 @@ function sumTotal(a){
     }
     return sum;
 }
+
 
 
 
