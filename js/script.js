@@ -168,7 +168,7 @@ const members = {
         // join:"new" 01/02/25,
         // pre-previous month list
         post_payable        :3483,
-        previous_paid       :5500,
+        previous_paid       :6000,
         previous_dining_cost:2856,
         payment             :{"10/08/25-Cash":4000,"17/08/25-Cash":1000,"24/08/25-Cash":500},
         // running month
@@ -847,6 +847,7 @@ function sumTotal(a){
     }
     return sum;
 }
+
 
 
 
