@@ -174,7 +174,7 @@ const members = {
         // running month
         stay_cost       :3000,
         garage_cost     :0,
-        running_payable :4499,
+        running_payable :3999,
         running_paid    :5500,
         running_meal    :56,
         // method calling
@@ -847,6 +847,7 @@ function sumTotal(a){
     }
     return sum;
 }
+
 
 
 
